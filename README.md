@@ -1,10 +1,3 @@
-# CodSoft Java Developer Internship Projects
-
-This repository contains the projects completed during my **Java Developer Internship at CodSoft**.  
-These projects demonstrate my understanding of core Java concepts, problem-solving, and application development.
-
----
-
 ## 🚀 Projects Included
 
 ### 1. Number Guessing Game
